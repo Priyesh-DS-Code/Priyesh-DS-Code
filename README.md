@@ -5,9 +5,9 @@ Machine Learning & Data Science Enthusiast focused on building end-to-end machin
 ## About Me
 
 - B.Tech Computer Science Student
-- Passionate about Machine Learning, Data Science, and Artificial Intelligence
-- Exploring Cloud Computing, MLOps, and Model Deployment
-- Interested in solving real-world problems using data-driven approaches
+- Passionate about Machine Learning and Data Science
+- Exploring MLOps, and Deep Learning
+- Interested in solving real-world problems
 - Continuously learning and building scalable ML applications
 
 ## Technical Skills
