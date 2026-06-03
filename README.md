@@ -1,14 +1,14 @@
-# Hi, I'm Priyesh Kumar Kashyap 👋
+# Hi, I'm Priyesh Kumar Kashyap 
 
 Machine Learning & Data Science Enthusiast focused on building end-to-end machine learning solutions and deploying production-ready applications.
 
 ## About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence
-- ☁️ Exploring Cloud Computing, MLOps, and Model Deployment
-- 📊 Interested in solving real-world problems using data-driven approaches
-- 🚀 Continuously learning and building scalable ML applications
+- B.Tech Computer Science Student
+- Passionate about Machine Learning, Data Science, and Artificial Intelligence
+- Exploring Cloud Computing, MLOps, and Model Deployment
+- Interested in solving real-world problems using data-driven approaches
+- Continuously learning and building scalable ML applications
 
 ## Technical Skills
 
@@ -29,26 +29,24 @@ Git • GitHub • Jupyter Notebook
 ### ❤️ Heart Disease Prediction System
 An end-to-end Machine Learning application for predicting heart disease risk using patient health parameters. Includes data preprocessing, model training, evaluation, and deployment.
 
+### 📚 Book Recommendation System
+Recommendation system built using clustering and similarity-based approaches to provide personalized book suggestions.
+
 ### 🎬 Movie Recommendation System
 Content-based recommendation engine that suggests similar movies using similarity techniques and feature engineering.
 
 ### ✈️ Flight Price Prediction
 Machine Learning project for predicting airline ticket prices based on travel-related features and historical data.
 
-### 📚 Book Recommendation System
-Recommendation system built using clustering and similarity-based approaches to provide personalized book suggestions.
-
 ## Current Focus
 
-- Machine Learning Engineering
 - MLOps
-- Cloud Deployment with AWS
 - Production-Ready ML Systems
 - Deep Learning
 
 ## Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/priyeshkumarkashyap
 - GitHub: https://github.com/Priyesh-DS-Code
 
 ---
