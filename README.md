@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Priyesh Kumar Kashyap 👋
 
-<!--
-**Priyesh-DS-Code/Priyesh-DS-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Data Science Enthusiast focused on building end-to-end machine learning solutions and deploying production-ready applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Computer Science Student
+- 🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence
+- ☁️ Exploring Cloud Computing, MLOps, and Model Deployment
+- 📊 Interested in solving real-world problems using data-driven approaches
+- 🚀 Continuously learning and building scalable ML applications
+
+## Technical Skills
+
+### Programming
+Python
+
+### Data Science & Machine Learning
+Pandas • NumPy • Scikit-Learn • Matplotlib
+
+### Deployment & Cloud
+Streamlit • Flask • Docker • AWS
+
+### Tools
+Git • GitHub • Jupyter Notebook
+
+## Featured Projects
+
+### ❤️ Heart Disease Prediction System
+An end-to-end Machine Learning application for predicting heart disease risk using patient health parameters. Includes data preprocessing, model training, evaluation, and deployment.
+
+### 🎬 Movie Recommendation System
+Content-based recommendation engine that suggests similar movies using similarity techniques and feature engineering.
+
+### ✈️ Flight Price Prediction
+Machine Learning project for predicting airline ticket prices based on travel-related features and historical data.
+
+### 📚 Book Recommendation System
+Recommendation system built using clustering and similarity-based approaches to provide personalized book suggestions.
+
+## Current Focus
+
+- Machine Learning Engineering
+- MLOps
+- Cloud Deployment with AWS
+- Production-Ready ML Systems
+- Deep Learning
+
+## Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/Priyesh-DS-Code
+
+---
+
+"Turning data into intelligent solutions through Machine Learning and Data Science."
