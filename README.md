@@ -24,20 +24,6 @@ Streamlit • Flask • Docker • AWS
 ### Tools
 Git • GitHub • Jupyter Notebook
 
-## Featured Projects
-
-### ❤️ Heart Disease Prediction System
-An end-to-end Machine Learning application for predicting heart disease risk using patient health parameters. Includes data preprocessing, model training, evaluation, and deployment.
-
-### 📚 Book Recommendation System
-Recommendation system built using clustering and similarity-based approaches to provide personalized book suggestions.
-
-### 🎬 Movie Recommendation System
-Content-based recommendation engine that suggests similar movies using similarity techniques and feature engineering.
-
-### ✈️ Flight Price Prediction
-Machine Learning project for predicting airline ticket prices based on travel-related features and historical data.
-
 ## Current Focus
 
 - MLOps
